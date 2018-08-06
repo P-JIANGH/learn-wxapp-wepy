@@ -1,0 +1,9 @@
+<style>
+</style>
+<template lang="wxml" minapp="wepy">
+  <view id="container">
+    memorandum {{msg}}
+  </view>
+</template>
+<script src="memorandum.js">
+</script>
